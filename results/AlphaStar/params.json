@@ -1,0 +1,14 @@
+{
+    "num_experiments": 5,
+    "iters": 200,
+    "num_threads": 2,
+    "lr": 0.5,
+    "thresh": 0.03,
+    "psro": true,
+    "pipeline_psro": true,
+    "dpp_psro": true,
+    "rectified": true,
+    "self_play": true,
+    "psd_psro": true,
+    "bd_rd_psro": true
+}
